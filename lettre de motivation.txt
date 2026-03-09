@@ -20,6 +20,7 @@ Lettre pour BTS SIO Sidoine Appolinaire :
 	afin qu'il corresponde à la vision que j'en ai. Voici pour exemple ce que je réalise : lien de mon repo github avec mes dotfiles : https://github.com/Nielaser/dotfiles.
 	Intégrer cette formation sera une occasion pour moi de déveloper mes connaissances sur le sujet et de continuer a étudier ma passion.
 
-	Votre établissement a une localisation qui m'est avantageuse et propose des infrastructures intéressante pour ce BTS
+	Votre établissement a une localisation qui m'est avantageuse et propose des infrastructures intéressante pour ce BTS, je serai intéréssé par l'option SISR du BUT qui me correspondrai le plus.
+	
 
 
