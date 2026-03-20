@@ -18,7 +18,7 @@ Lettre pour BTS SIO Sidoine Appolinaire :
 	J'ai déjà quelques connaissances sur le sujet, je suis passionné surtout par linux que j'utilise comme OS principal et que je configure à l'envie en appenant par
 	la même occasion les bases de certains languages de programmation tel que : nix, qml, css. J'aime beaucoup configurer linux afin de modifier son apparence et le fontionnement de mon système 
 	afin qu'il corresponde à la vision que j'en ai. Voici pour exemple ce que je réalise : lien de mon repo github avec mes dotfiles avec une capture d'écran a un moment t de mon environnement de bureau : https://github.com/Nielaser/dotfiles ##changer le lien car obsolète.
-	Intégrer cette formation sera une occasion pour moi de déveloper mes connaissances sur le sujet et de continuer a étudier ma passion.
+	Intégrer cette formation sera une occasion pour moi de déveloper mes connaissances sur le sujet et de continuer a étudier dans ma passion pour l'informatique et le dévelopement.
 
 	Votre établissement a une localisation qui m'est avantageuse et propose des infrastructures intéressante pour ce BTS, je serai intéréssé par l'option SISR du BTS qui me correspondrai le plus.
 	
