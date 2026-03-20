@@ -15,7 +15,7 @@ Parler de :
 Lettre pour BTS SIO Sidoine Appolinaire : 
 	Bonjour Madame, Monsieur, actuellement élève en terminale STMG avec spécialité SIG,
 	je suis très intéréssé par l'intégration du BTS SIO du lycée Sidoine Appolinaire. Ce choix est motivé par ma passion pour l'informatique et le développement.
-	J'ai déjà quelques connaissances sur le sujet, je suis passionné surtout par linux que j'utilise comme OS principal et que je configure à l'envie en appenant par
+	J'ai déjà quelques connaissances sur le sujet, je suis passionné par la programmation, la création/la customisation de programmes/application/enrironement de bureau et enfin par linux que j'utilise comme OS principal et que je configure à l'envie en appenant par
 	la même occasion les bases de certains languages de programmation tel que : nix, qml, css. J'aime beaucoup configurer linux afin de modifier son apparence et le fontionnement de mon système 
 	afin qu'il corresponde à la vision que j'en ai. Voici pour exemple ce que je réalise : lien de mon repo github avec mes dotfiles avec une capture d'écran a un moment t de mon environnement de bureau : https://github.com/Nielaser/dotfiles ##changer le lien car obsolète.
 	Intégrer cette formation sera une occasion pour moi de déveloper mes connaissances sur le sujet et de continuer a étudier dans ma passion pour l'informatique et le dévelopement.
@@ -26,7 +26,7 @@ Lettre pour BTS SIO Sidoine Appolinaire :
 Lettre pour BUT Clermont Ferrand :
 	Bonjour Madame, Monsieur, actuellement élève en terminal STMG avec spécialité SIG,
 	je suis extrèmement intéréssé par l'intégration du BUT informatique de Clermont Ferrand. Ce choix est motivé par ma passion pour l'informatique et le dévelopement.
-	J'ai déjà quelques connaissances sur le sujet je suis passionné surtout par linux que j'utilise comme OS principal et que je configure à l'envie en appenant par
+	J'ai déjà quelques connaissances sur le sujet, je suis passionné par la programmation, la création/la customisation de programmes/application/enrironement de bureau et enfin par linux que j'utilise comme OS principal et que je configure à l'envie en appenant par
 	la même occasion les bases de certains languages de programmation tel que : nix, qml, css. J'aime beaucoup configurer linux afin de modifier son apparence et le fontionnement de mon système 
 	afin qu'il corresponde à la vision que j'en ai. Voici pour exemple ce que je réalise : lien de mon repo github avec mes dotfiles avec une capture d'écran a un moment t de mon environnement de bureau : https://github.com/Nielaser/dotfiles ##changer le lien car obsolète.
 	Intégrer cette formation sera une occasion pour moi de déveloper mes connaissances sur le sujet et de continuer a étudier dans ma passion pour l'informatique et le dévelopement.
